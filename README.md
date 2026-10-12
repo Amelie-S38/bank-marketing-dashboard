@@ -4,7 +4,7 @@ Dashboard interactif (Python, pandas, Plotly, Streamlit) qui analyse 41 172 appe
 
 **[Voir le dashboard en ligne](LIEN_STREAMLIT_A_AJOUTER)**
 
-![Aperçu du dashboard](images/dashboard.png)
+![Aperçu du dashboard](images/dashboard_marketing_1.png)
 
 ## Enseignements clés
 
