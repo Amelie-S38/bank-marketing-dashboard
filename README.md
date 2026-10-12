@@ -2,7 +2,7 @@
 
 Dashboard interactif (Python, pandas, Plotly, Streamlit) qui analyse 41 172 appels de télémarketing d'une banque portugaise pour répondre à une question : **quels profils de clients souscrivent le plus, et comment cibler plus efficacement les prochains appels ?**
 
-**[Voir le dashboard en ligne](LIEN_STREAMLIT_A_AJOUTER)**
+**[Voir le dashboard en ligne](https://bank-marketing-dashboard-ahgymn8zmdbypjw4buzlf5.streamlit.app/)**
 
 ![Aperçu du dashboard](images/dashboard_marketing_1.png)
 
